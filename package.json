@@ -1,0 +1,15 @@
+{
+  "name": "mantul_bot",
+  "version": "1.0.0",
+  "description": "Mantul Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Bot", "Mantul", "Telegram"],
+  "author": "Onesinus SPT",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
